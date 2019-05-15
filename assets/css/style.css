@@ -1,0 +1,10 @@
+.box {
+  margin:auto;
+  background-color: red;
+  border:3px solid black;
+height: 50px;
+width: 50px;
+}
+.formulaire {
+  text-align: center;
+}
